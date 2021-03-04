@@ -18,8 +18,11 @@ Ads.txt, App-ads.txt에 대해서는 위의 링크([1. Ads.txt란 무엇인가?]
 ## App 정보의 Channel에 따른 구분
 
 ### - WEB의 경우 ads.txt를 적용
-<img src="./img/exelbid_ads_txt.png" width="80%"><br>
+<img src="./img/web_info.png" width="80%"><br>
 \* 참조) Exelbid 대시보드의 앱(웹) 정보 화면
+
+<img src="./img/my_account_ads_txt.png" width="80%"><br>
+\* 참조) Exelbid 대시보드의 계정 정보에서 ads.txt 다운로드 선택
 
 1. Inventory->App->기본 정보에서 <b>도메인 정보를 정확히 기입<b>합니다.<br/>
 \* 해당 도메인 정보를 기반으로 ads.txt가 결정되므로 정확해야 합니다.
@@ -30,8 +33,11 @@ Ads.txt, App-ads.txt에 대해서는 위의 링크([1. Ads.txt란 무엇인가?]
 3. 타사 연동을 통해 이미 ads.txt가 3.존재한다면 Exelbid의 다운받은 ads.txt 내용을 기존 ads.txt에 추가합니다.
 
 ### - INAPP 의 경우 app-ads.txt를 적용
-<img src="./img/exelbid_app_ads_txt.png" width="80%"><br>
+<img src="./img/app_info.png" width="80%"><br>
 \* 참조) Exelbid 대시보드의 앱 정보 화면
+
+<img src="./img/my_account_app_ads_txt.png" width="80%"><br>
+\* 참조) Exelbid 대시보드의 계정 정보에서 app-ads.txt 다운로드 선택
 
 1. Inventory->App->기본 정보에서 <b>스토어 URL<b>을 정확히 기입합니다. 
 
